@@ -12,7 +12,7 @@ require.config({
 	},
 	map: {
 		'*': {
-			'css': 'lib/css'
+			'css': 'lib/require-css'
 		}
 	}
 
