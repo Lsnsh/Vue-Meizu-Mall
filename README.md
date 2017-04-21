@@ -28,6 +28,6 @@ node环境下执行:
 ### 技术栈
 <pre>
  vue1.x
- requireJ
+ requireJs
  require-css
 </pre>
