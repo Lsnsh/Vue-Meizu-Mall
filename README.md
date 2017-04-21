@@ -26,6 +26,8 @@ node环境下执行:
 <img src="./preview/good_dep.png">
 
 ### 技术栈
-vue1.x
-requireJ
-require-css
+<pre>
+ vue1.x
+ requireJ
+ require-css
+</pre>
